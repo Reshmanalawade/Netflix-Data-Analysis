@@ -7,13 +7,6 @@ Netflix is a subscription-based streaming service offering a vast library of mov
 ## Overview :
 This dataset contains comprehensive data on Netflix’s content catalog, user interactions, and ratings across a global audience. It includes detailed information on over 15,000 movies and TV shows, including titles, genres, release years, cast, directors, user ratings, and availability by region.
 
-## Dataset :
-The dataset includes the following files:
-- listings.csv
-Contains detailed information about Airbnb properties, including host details, location, pricing, and room types.
-- reviews.csv
-Includes guest reviews for Airbnb properties, covering feedback, review dates, and reviewer details.
-
 
 ## Insights :
 1. The number of Netflix subscribers kept increasing since its launch, and subscription prices remained low, attracting early adopters and building strong initial traction.
