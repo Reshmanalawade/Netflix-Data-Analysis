@@ -1,6 +1,6 @@
 # Netflix-Data-Analysis
 
-Netflix is a subscription-based streaming service offering a vast library of movies, TV shows, documentaries, and original content across various genres and languages. 
+Netflix is a subscription-based streaming service offering a vast library of movies, TV shows, documentaries, and original content across various genres and languages.Members can watch content anytime, anywhere, and on multiple devices.Netflix was founded in 1997 and initially offered DVD rentals by mail before transitioning to a streaming service 
 
 <img src="net 2 img.jpg" width=1000>
 
