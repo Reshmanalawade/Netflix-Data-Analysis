@@ -1,6 +1,6 @@
 # Netflix-Data-Analysis
 
-Airbnb is an online marketplace that connects people who want to rent out their homes with travelers seeking accommodations. 
+Netflix is a subscription-based streaming service offering a vast library of movies, TV shows, documentaries, and original content across various genres and languages. 
 
 <img src="net 2 img.jpg" width=1000>
 
