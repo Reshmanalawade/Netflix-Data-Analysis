@@ -18,8 +18,10 @@ Includes guest reviews for Airbnb properties, covering feedback, review dates, a
 ## Insights :
 1. The number of Netflix subscribers kept increasing since its launch, and subscription prices remained low, attracting early adopters and building strong initial traction.
 2. As Netflix became widely known and adopted globally, its subscriber base continued growing rapidly, and prices also began increasing to support original content production and global expansion.
-3. Around 2017–2018, increasing competition from emerging streaming platforms and content licensing challenges led to some uncertainty in the business model. Subscriber growth slowed slightly, while prices continued rising to offset content and operational costs.
-4. Once the competitive landscape stabilized and Netflix adapted its strategy with more focus on international markets and original productions, by 2020 subscriber numbers surged again, especially due to the pandemic, while pricing remained relatively stable to retain market share.
+3. Around 2017–2018, increasing competition from emerging streaming platforms and content licensing challenges led to some uncertainty in the business model. Subscriber growth slowed slightly, while prices 
+   continued rising to offset content and operational costs.
+4. Once the competitive landscape stabilized and Netflix adapted its strategy with more focus on international markets and original productions, by 2020 subscriber numbers surged again, especially due to the 
+   pandemic, while pricing remained relatively stable to retain market share.
 
 ## Recommendation :
 1. Regulations in long term rentals can impact the business adversely, there might be customer and hosts churn due to uncertainty.
