@@ -5,7 +5,7 @@ Netflix is a subscription-based streaming service offering a vast library of mov
 <img src="net 2 img.jpg" width=1000>
 
 ## Overview :
-This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
+This dataset contains comprehensive data on Netflix’s content catalog, user interactions, and ratings across a global audience. It includes detailed information on over 15,000 movies and TV shows, including titles, genres, release years, cast, directors, user ratings, and availability by region.
 
 ## Dataset :
 The dataset includes the following files:
