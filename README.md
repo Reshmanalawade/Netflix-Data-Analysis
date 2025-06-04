@@ -2,7 +2,7 @@
 
 Netflix is a subscription-based streaming service offering a vast library of movies, TV shows, documentaries, and original content across various genres and languages.Members can watch content anytime, anywhere, and on multiple devices.Netflix was founded in 1997 and initially offered DVD rentals by mail before transitioning to a streaming service 
 
-<img src="net 2 img.jpg" width=1000>
+<img src="netfix 1.jpg" width=1000>
 
 ## Overview :
 This dataset contains comprehensive data on Netflix’s content catalog, user interactions, and ratings across a global audience. It includes detailed information on over 15,000 movies and TV shows, including titles, genres, release years, cast, directors, user ratings, and availability by region.
