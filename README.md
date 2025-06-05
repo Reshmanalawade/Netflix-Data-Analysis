@@ -16,6 +16,7 @@ This dataset contains comprehensive data on Netflix’s content catalog, user in
 4. Once the competitive landscape stabilized and Netflix adapted its strategy with more focus on international markets and original productions, by 2020 subscriber numbers surged again, especially due to the 
    pandemic, while pricing remained relatively stable to retain market share.
 
+
 ## Recommendation :
 1. Regulations around content distribution, censorship, or local content quotas can significantly impact Netflix’s operations in various regions, leading to increased compliance costs or content unavailability.
 2. Such regulations might lead to subscriber churn in affected markets due to dissatisfaction or limited content access, ultimately affecting Netflix’s revenue and market share.
